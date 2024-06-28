@@ -18,9 +18,18 @@ Dependencies:
 
 After sure you have all the dependencies installed let's install the app and run it:
 
-1. Open your terminal and paste the command `git clone https://github.com/nothiaki/idempotency.git`
-2. Enter the directory, `cd idempotency`
-3. run `make`
+1. Open your terminal and paste the command
+```bash
+git clone https://github.com/nothiaki/idempotency.git
+```
+2. Enter the directory
+```bash
+cd idempotency
+```
+3. run
+```bash
+make
+```
 
 ## Docs
 
